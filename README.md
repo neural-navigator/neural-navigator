@@ -1,5 +1,6 @@
+<!-- 
 <h2 align="left">Hi 👋! My name is Satya Pati and I'm a Data Scientist, from 2021</h2>
-
+-->
 ###
 
 <div align="center">
